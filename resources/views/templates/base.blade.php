@@ -8,5 +8,7 @@
 </head>
 <body>
     
+
+    @yield('pageMain')
 </body>
 </html>
